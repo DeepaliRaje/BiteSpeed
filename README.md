@@ -34,10 +34,14 @@ Create a .env file in the root directory:
 ```
 
 ## Installation
-npm install
+```bash
+  npm install
+```
 
 ## Run the Server
-node server.js
+```bash
+  node server.js
+```
 
 ## Contact Schema
 
